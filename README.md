@@ -2,8 +2,12 @@
 Java Master Class - Online
 
 ### Section 1: Course Introduction
+### Section 2: Software Tools Setup
+
+12.Installing Intellij IDEA
 
 17. Configure IntelliJ IDEA
+### Section 3: First Steps
 
 20. Defining the Main Method
 
@@ -176,11 +180,10 @@ Coding Exercise 26: Diagonal Star
 Coding Exercise 27: Input Calculator
 
 Coding Exercise 28: Paint Job
-Section 6: OOP Part 1 - Classes,
-Constructors and Inheritance
+
+### Section 6: OOP Part 1 - Classes, Constructors and Inheritance
 
 75. Introduction
-
 
 76. Classes Part 1
 
@@ -218,7 +221,6 @@ Coding Exercise 34: Complex Operations
 
 87. Inheritance Challenge Part 1 (+Challenge Exercise)
 
-
 88. Inheritance Challenge Part 2
 
 Coding Exercise 35: Cylinder
@@ -226,7 +228,6 @@ Coding Exercise 35: Cylinder
 Coding Exercise 36: Pool Area
 
 ### Section 7: OOP Part 2 - Composition,Encapsulation, and Polymorphism
-
 
 89. Introduction
 
@@ -446,7 +447,6 @@ Coding Exercise 36: Pool Area
 
 190. Slider, Spinner, ColorPicker & DatePicker Controls
 
-
 191. TitledPane
 
 192. Events and Event Handlers
@@ -550,7 +550,6 @@ Coding Exercise 36: Pool Area
 239. Object Input Output including Serialization
 
 240. Finish Object I/O and RandomAccessFile class
-
 
 241. Create Random Access File
 
