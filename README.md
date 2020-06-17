@@ -3,23 +3,23 @@ Java Master Class - Online
 
 ### Section 1: Course Introduction
 
--17. Configure IntelliJ IDEA
+17. Configure IntelliJ IDEA
 
--20. Defining the Main Method
+20. Defining the Main Method
 
--22. Variables
+22. Variables
 
--23. Starting out with Expressions
+23. Starting out with Expressions
 
--24. Primitive Types
+24. Primitive Types
 
--25. byte, short, long and width
+25. byte, short, long and width
 
--26. Casting in Java
+26. Casting in Java
 
--27. Primitive Types Challenge
+27. Primitive Types Challenge
 
--28. float and double Primitive Types
+28. float and double Primitive Types
 
 29. Floating Point Precision and a Challenge
 
