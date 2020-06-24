@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4297dabc-0f34-48d4-b06d-d6989993df7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cS5H141utA53G5XfTssFWxxGpp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Immutable" />
+      <module name="Immutable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Immutable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4297dabc-0f34-48d4-b06d-d6989993df7b" name="Default Changelist" comment="" />
+      <created>1590509063011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590509063011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="55" key="#Project_Structure" timestamp="1590509091835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="55" key="#Project_Structure/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590509091835" />
+    <state width="1557" height="241" key="GridCell.Tab.-1.bottom" timestamp="1590510496538">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="241" key="GridCell.Tab.-1.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510496538" />
+    <state width="1557" height="241" key="GridCell.Tab.-1.center" timestamp="1590510496538">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="241" key="GridCell.Tab.-1.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510496538" />
+    <state width="1557" height="241" key="GridCell.Tab.-1.left" timestamp="1590510496538">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="241" key="GridCell.Tab.-1.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510496538" />
+    <state width="1557" height="241" key="GridCell.Tab.-1.right" timestamp="1590510496538">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="241" key="GridCell.Tab.-1.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510496538" />
+    <state width="1129" height="236" key="GridCell.Tab.0.bottom" timestamp="1590644462138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1129" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590644462138" />
+    <state width="1127" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590597491859" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state width="1129" height="236" key="GridCell.Tab.0.center" timestamp="1590644462138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1129" height="236" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590644462138" />
+    <state width="1127" height="236" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590597491859" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state width="1129" height="236" key="GridCell.Tab.0.left" timestamp="1590644462138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1129" height="236" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590644462138" />
+    <state width="1127" height="236" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590597491858" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590517734481" />
+    <state width="1129" height="236" key="GridCell.Tab.0.right" timestamp="1590644462138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1129" height="236" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590644462138" />
+    <state width="1127" height="236" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590597491859" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.bottom" timestamp="1590517734482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="891" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590509362508" />
+    <state x="2867" y="588" width="315" height="174" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510715912" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.center" timestamp="1590517734482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="891" height="260" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590509362508" />
+    <state x="2867" y="588" width="315" height="174" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510715912" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.left" timestamp="1590517734482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="891" height="260" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590509362508" />
+    <state x="2867" y="588" width="315" height="174" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510715911" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.right" timestamp="1590517734482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="891" height="260" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590509362508" />
+    <state x="2867" y="588" width="315" height="174" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510715912" />
+    <state x="909" y="565" width="317" height="176" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590517734482" />
+    <state x="2416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1590596872654">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590596872654" />
+    <state x="2867" y="588" width="331" height="241" key="dock-window-1" timestamp="1590510575502">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2867" y="588" width="331" height="241" key="dock-window-1/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510575502" />
+    <state x="2867" y="588" width="331" height="241" key="dock-window-2" timestamp="1590510658622">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2867" y="588" width="331" height="241" key="dock-window-2/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510658622" />
+    <state x="909" y="565" width="331" height="241" key="dock-window-3" timestamp="1590517734596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2867" y="588" width="331" height="241" key="dock-window-3/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590510854300" />
+    <state x="909" y="565" width="331" height="241" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1590517734596" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Immutable.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Immutable$Immutable.ic" NAME="Immutable Coverage Results" MODIFIED="1590509362452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
