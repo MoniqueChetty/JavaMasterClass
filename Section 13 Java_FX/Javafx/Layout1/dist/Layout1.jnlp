@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Layout1.jnlp">
+  <information>
+    <title>Layout1</title>
+    <vendor>Sales</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\Layout1-Preloader.jar" size="3009" download="progress" />
+    <jar href="Layout1.jar" size="5507" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Layout1" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="layout1.Layout1"  name="Layout1"  preloader-class="layout1.preloader.Layout1_Preloader"/>
+  <update check="always"/>
+</jnlp>

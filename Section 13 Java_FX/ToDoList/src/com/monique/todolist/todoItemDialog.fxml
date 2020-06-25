@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Text?>
+<DialogPane fx:controller="com.monique.todolist.DialogController"
+            xmlns:fx="http://javafx.com/fxml">
+    <headerText>
+        Instructions here
+    </headerText>
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Short Description" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <TextField GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+            <Label text="Details" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <TextArea GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+            <Label text="Deadline" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+            <DatePicker GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+        </GridPane>
+    </content>
+</DialogPane>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<AnchorPane xmlns="http://javafx.com/javafx"-->
+<!--            xmlns:fx="http://javafx.com/fxml"-->
+<!--            fx:controller="com.monique.todolist.TodoItemDialog"-->
+<!--            prefHeight="400.0" prefWidth="600.0">-->
+
+<!--</AnchorPane>-->
